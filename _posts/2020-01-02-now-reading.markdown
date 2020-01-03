@@ -4,7 +4,7 @@ title:  "Now Reading"
 date:   2020-01-02 16:00:00 -0600
 categories: 
 ---
-#Compass, Mathias Énard
+# Compass, Mathias Énard
 
 In 2019, I finished a book every day. I decided to do this when I noticed, a week or so into the year, that I had been keeping up a book-a-day pace,
 and decided that trying to keep this up for the remainder of the year would be a good goal. I won't bore you with the set of restrictions and rules
