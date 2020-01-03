@@ -86,9 +86,11 @@ music often *is* surprising. This surprise comes from the possibility of an "une
 This is how we experience The Rings of Saturn. We know where he is going from the beginning, and there is never any real question of "what will happen," yet the book continually
 thrills us by moving from a theme back to an earlier one through a connection or observation that really, genuinely, surprises.
 
-Compass does not have this same formal security, and the ending, while deeply satisfying, can make to claim to necessity. This, I think, might be why the labels of 
-"psychological novel" and "novel of ideas" are so tempting for the two books I've been discussing. While The Rings of Saturn is a novel that uses one man's walking journey
-as the gateway to a constellation of thought, Compass is a novel in which ideas become our signposts in the exploration of a single life. These are both great novels, and you should absolutely read them.
+Compass does not have this same formal security, and the ending, while deeply satisfying, can make no claim to necessity. This, I think, might be why the labels of 
+"psychological novel" and "novel of ideas" are so tempting for the two books. Ritter's story is bound by the uncertainties of real life: the uncertainty of his remaining
+life, the uncertainty of how Sarah feels for him, and so on. The ending to such a story could never have the formal satisfaction of resolution. This wavering uncertainty is the hallmark of the psychological novel.
+Again, we can come to see the two as mirror images of each other. While The Rings of Saturn is a novel that uses one man's walking journey as the 
+gateway to a constellation of thought, Compass is a novel in which ideas become our signposts in the exploration of a single life. These are both great novels, and you should absolutely read them.
 
 # 26 Stories, Machado de Assis
 
