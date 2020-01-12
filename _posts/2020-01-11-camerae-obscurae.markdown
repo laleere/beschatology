@@ -33,7 +33,7 @@ Marx's claim in the German Ideology that "in all ideology men and their circumst
 points out, the idea that ideology is an inversion, that if one were to leave the *camera obscura* one could see right side up, cannot work for Marx.
 In GI, Marx plainly equates "what men say, imagine, conceive" wiht "ideological reflexes and echoes." In the metaphor of the *camera obscura*, ideology is
 an inverted image. To fix it would be to set the image right side up -- returning to the other side of the metaphor, to dispel the illusion of ideology
-and think of things as they really are. This naive binary of concealed/transparent or apparent/real cannot I think, be what Marx is looking for. I don't
+and think of things as they really are. But our consciousness is not an ideological echo of "true consciousness", but of material conditions -- that is to say, not of some alternative set of thoughts, beliefs, etc. The naive binary of concealed/transparent or apparent/real cannot I think, be what Marx is looking for. I don't
 want to make the lengthy defense which that claim would need, so I'll just quote Kofman, who I think sums things up nicely.
 
 >The camera obscura is the unconscious of a class, of the dominant class which, in order to maintain its domination indefinitely, has an interest in hiding from itself the historical character of its domination, indeed all that is historical, the processes of genesis, the divisions of labor... indeed, difference itself. Thus, it would serve no purpose to lift the veil in order to make reality appear in its transparency; this would involve forgetting the possibility of hallucination, whether negative or positive, forgetting that transparency is itself a product of history and not something which precedes ideology.
