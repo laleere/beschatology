@@ -3,6 +3,7 @@ layout: post
 title:  "Reading Log, Lightning Round Edition pt. 2"
 date:   2020-02-03 16:00:00 -0600
 categories: 
+summary: "I need to clear this backlog so it stops stressing me out. These are not going to be good. Sorry."
 ---
 I need to clear this backlog so it stops stressing me out. These are not going to be good. Sorry.
 
