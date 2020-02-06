@@ -11,38 +11,61 @@ I've yet to find a modern Blake scholar or critic who doesn't take him to be dee
 First, here's the poem.
 
 >My mother bore me in the southern wild,
+>
 >And I am black, but O! my soul is white;
+>
 >White as an angel is the English child: 
+>
 >But I am black as if bereav'd of light.
 >
+>
 >My mother taught me underneath a tree 
+>
 >And sitting down before the heat of day,
+>
 >She took me on her lap and kissed me,
+>
 >And pointing to the east began to say. 
 >
->Look on the rising sun: there God does live 
+>Look on the rising sun: there God does live
+> 
 >And gives his light, and gives his heat away. 
+>
 >And flowers and trees and beasts and men receive
+>
 >Comfort in morning joy in the noonday.
 >
 >And we are put on earth a little space,
->That we may learn to bear the beams of love, 
+>
+>That we may learn to bear the beams of love,
+> 
 >And these black bodies and this sun-burnt face
+>
 >Is but a cloud, and like a shady grove.
 >
 >For when our souls have learn'd the heat to bear 
+>
 >The cloud will vanish we shall hear his voice. 
+>
 >Saying: come out from the grove my love & care,
+>
 >And round my golden tent like lambs rejoice.
 >
 >Thus did my mother say and kissed me, 
+>
 >And thus I say to little English boy. 
+>
 >When I from black and he from white cloud free,
->And round the tent of God like lambs we joy: 
+>
+>And round the tent of God like lambs we joy:
+> 
 >
 >Ill shade him from the heat till he can bear, 
+>
 >To lean in joy upon our fathers knee. 
+>
 >And then I'll stand and stroke his silver hair,
+>
 >And be like him and he will then love me.
 
 The readings of this poem which I've encountered (a far from exhaustive set, to be clear) are unanimous in reading it as an anti-slavery poem. Blake's biography supports this, if admitted as evidence. We know that he was personally involved in the abolition movement at various points and was a personal acquaintance of (e.g.) William Wilberforce. Erdman's *Blake: Prophet Against Empire* contains much more information on this question (and many others). All of them, however, identify the poem to some degree as problematic. Many point to the first stanza's association of whiteness with holiness and blackness with privation, or the fourth stanza's identification of blackness as a result of sun exposure, a feature present in quite a few of the foundation-myths of European anti-African racism. In this light, the last two stanzas are generally read as affirming a spiritual equality between races, springing forth from the kind black boy's service to the white ("Ill shade him from the heat"). Blake thus appears in many of these readings to enact a sort of eschatological All Lives Matter, pushing off equality to a spiritual oneness with God. This leads, for instance, to David Bindman's contention that the poem is "inflected by theological traditions that assume Africans to be spiritually disadvantaged." The consensus in general seems to be that The Little Black Boy is an attempt at anti-racism made sadly flawed by various universalist assumptions and the importing of racist characterizations of Africans. While I'll freely admit that my relatively shallow engagement with both Blake's corpus and his historical moment prevent me from suggesting otherwise about Blake's personal beliefs, I think that a reading like Bindman's brutally undersells the poem considered as such. Hope I can show as much!
