@@ -27,6 +27,7 @@ First, here's the poem.
 >
 >And pointing to the east began to say. 
 >
+>
 >Look on the rising sun: there God does live
 > 
 >And gives his light, and gives his heat away. 
@@ -34,6 +35,7 @@ First, here's the poem.
 >And flowers and trees and beasts and men receive
 >
 >Comfort in morning joy in the noonday.
+>
 >
 >And we are put on earth a little space,
 >
@@ -43,6 +45,7 @@ First, here's the poem.
 >
 >Is but a cloud, and like a shady grove.
 >
+>
 >For when our souls have learn'd the heat to bear 
 >
 >The cloud will vanish we shall hear his voice. 
@@ -50,6 +53,7 @@ First, here's the poem.
 >Saying: come out from the grove my love & care,
 >
 >And round my golden tent like lambs rejoice.
+>
 >
 >Thus did my mother say and kissed me, 
 >
@@ -70,7 +74,7 @@ First, here's the poem.
 
 The readings of this poem which I've encountered (a far from exhaustive set, to be clear) are unanimous in reading it as an anti-slavery poem. Blake's biography supports this, if admitted as evidence. We know that he was personally involved in the abolition movement at various points and was a personal acquaintance of (e.g.) William Wilberforce. Erdman's *Blake: Prophet Against Empire* contains much more information on this question (and many others). All of them, however, identify the poem to some degree as problematic. Many point to the first stanza's association of whiteness with holiness and blackness with privation, or the fourth stanza's identification of blackness as a result of sun exposure, a feature present in quite a few of the foundation-myths of European anti-African racism. In this light, the last two stanzas are generally read as affirming a spiritual equality between races, springing forth from the kind black boy's service to the white ("Ill shade him from the heat"). Blake thus appears in many of these readings to enact a sort of eschatological All Lives Matter, pushing off equality to a spiritual oneness with God. This leads, for instance, to David Bindman's contention that the poem is "inflected by theological traditions that assume Africans to be spiritually disadvantaged." The consensus in general seems to be that The Little Black Boy is an attempt at anti-racism made sadly flawed by various universalist assumptions and the importing of racist characterizations of Africans. While I'll freely admit that my relatively shallow engagement with both Blake's corpus and his historical moment prevent me from suggesting otherwise about Blake's personal beliefs, I think that a reading like Bindman's brutally undersells the poem considered as such. Hope I can show as much!
 
-So, let's start with the first stanza. Here, we get a pretty conventional setup: black and white are opposed, with whiteness associated with the good (the black boy's body hides a "white soul", the English child is white "like an angel") and blackness explicitly equated with bereavement. As I said earlier, lots of readers of the poem seem to take Blake as endorsing the views expressed in this first stanza, which I find rather puzzling. Almost everything presented in this first stanza is destabilized by the end of the poem. While blackness is identified here with the lack of light, by the fourth stanza blackness becomes a sign of *too much* light (what that means, I'll come back to). While souls are colored in the first stanza, by the fifth colors appear, both black and white, as "clouds" that implicitly hold us back from more direct communion with God by obstructing the sunbeams of His love. I think, then, that we should read the first stanza as a recapitulation of what Blake saw as contemporary prejudices, as internalized by the black child speaking. The mother's introduction makes more sense this way: the child presents a view (or set of views), the mother steps in and corrects those views, and the boy speaks in the last two stanzas with the knowledge he has gained. Far from endorsing the naive picture of race in the first stanza, I take Blake to be presenting it as precisely that which must be dispelled. (It's also worth noting here, although Blake's positions change over time, that several parts of *The Marriage of Heaven and Hell* seem to distance Blake from this stanza. There, he comes out quite strongly against the opposition between body and soul and repeatedly troubles the dichotomy of angel and devil. I don't want to go outside the poem at hand very much, but the relevance is striking.)
+So, let's start with the first stanza. Here, we get a pretty conventional setup: black and white are opposed, with whiteness associated with the good (the black boy's body hides a "white soul", the English child is white "like an angel") and blackness explicitly equated with bereavement. As I said earlier, lots of readers of the poem seem to take Blake as endorsing the views expressed in this first stanza, which I find rather puzzling. Almost everything presented in this first stanza is destabilized by the end of the poem. While blackness is identified here with the lack of light, by the fourth stanza blackness becomes a sign of *too much* light (what that means, I'll come back to). While souls are colored in the first stanza, by the second-to-last colors appear, both black and white, as "clouds" that implicitly hold us back from more direct communion with God by obstructing the sunbeams of His love. I think, then, that we should read the first stanza as a recapitulation of what Blake saw as contemporary prejudices, as internalized by the black child speaking. The mother's introduction makes more sense this way: the child presents a view (or set of views), the mother steps in and corrects those views, and the boy speaks in the last two stanzas with the knowledge he has gained. Far from endorsing the naive picture of race in the first stanza, I take Blake to be presenting it as precisely that which must be dispelled. (It's also worth noting here, although Blake's positions change over time, that several parts of *The Marriage of Heaven and Hell* seem to distance Blake from this stanza. There, he comes out quite strongly against the opposition between body and soul and repeatedly troubles the dichotomy of angel and devil. I don't want to go outside the poem at hand very much, but the relevance is striking.)
 
 Then, the most explicit of the poem's symbolic equivocations: God = Sun. Right away, we should note that the sunbeams here are not the crushing heat of noon in midsummer, but "comfort" and "joy." Receiving God's love doesn't hurt! In the fourth stanza, then, we get another point that scholars have identified as problematic in the poem, where the boy's face is described as sun-burnt, seemingly importing the theory of race mentioned above. The claim that the sun-burnt face is "but a shady grove" has led some to see Blake as offering an apologia for the suffering of slaves. On that reading, Blake is attempting to justify the obvious earthly suffering of African slaves by associating it with some heavenly reward: don't worry, your suffering better prepares you for the kingdom of heaven! This suffering, then, would be what allows the black boy to later "shade [the English boy] from the heat till he can bear". A slightly more nuanced reading suggests that Blake is attempting an inversion of the old narrative by assenting to it while simultaneously noting that the beams which burn the boy's face black are, in fact God's love, and thus a good thing to receive. The black boy, having received more of them, is thus placed in a morally superior position re: the English boy. As a quick look at "noble savage" discourses tells us, inverting a racist hierarchy is hardly a guarantee of anti-racism when this inversion is conducted by a member of the oppressing group. Thus, on this reading, Blake is hardly doing much better.
 
