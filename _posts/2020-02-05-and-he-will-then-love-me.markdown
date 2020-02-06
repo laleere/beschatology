@@ -8,7 +8,7 @@ categories:
 
 I've yet to find a modern Blake scholar or critic who doesn't take him to be deeply interested in the political. Even Northrop Frye takes occasional breaks from teasing out Blake's mysticism to gesture at the necessary social implications of his radical theology. Unfortunately, many of these attempts seem preoccupied with uncovering the legible circa-1800 political camp hidden within Blake's symbolic forests. Blake becomes an overseas Jacobin, an anti-Enlightenment communalist, or an anti-Lockean liberal, depending on who you ask. Any such demarcation can never do justice to just how radical his politics, if they can be called that, must have been. I'd like to gesture in that direction through a short reading of a poem whose reception history has been disappointingly shallow. "The Little Black Boy" appeared in Blake's 1789 *Songs of Innocence and Experience*, and as such lacks the density of Blakean mythos that takes up his later works. That's not to say that I'll be able to give anything close to a full treatment here; the Songs clearly possess a wealth of internal patterns and superstructures that I'm far from grasping, none of which I'll talk about. I hope, though, that the relative textual simplicity will make this legible even if one hasn't read much Blake.
 
-First, here's the poem.
+First, here's the poem. Sorry about the formatting. Might fix later.
 
 >My mother bore me in the southern wild,
 >
@@ -17,8 +17,7 @@ First, here's the poem.
 >White as an angel is the English child: 
 >
 >But I am black as if bereav'd of light.
->
->
+
 >My mother taught me underneath a tree 
 >
 >And sitting down before the heat of day,
@@ -26,8 +25,7 @@ First, here's the poem.
 >She took me on her lap and kissed me,
 >
 >And pointing to the east began to say. 
->
->
+
 >Look on the rising sun: there God does live
 > 
 >And gives his light, and gives his heat away. 
@@ -35,8 +33,7 @@ First, here's the poem.
 >And flowers and trees and beasts and men receive
 >
 >Comfort in morning joy in the noonday.
->
->
+
 >And we are put on earth a little space,
 >
 >That we may learn to bear the beams of love,
@@ -44,8 +41,7 @@ First, here's the poem.
 >And these black bodies and this sun-burnt face
 >
 >Is but a cloud, and like a shady grove.
->
->
+
 >For when our souls have learn'd the heat to bear 
 >
 >The cloud will vanish we shall hear his voice. 
@@ -53,8 +49,7 @@ First, here's the poem.
 >Saying: come out from the grove my love & care,
 >
 >And round my golden tent like lambs rejoice.
->
->
+
 >Thus did my mother say and kissed me, 
 >
 >And thus I say to little English boy. 
@@ -62,8 +57,7 @@ First, here's the poem.
 >When I from black and he from white cloud free,
 >
 >And round the tent of God like lambs we joy:
-> 
->
+
 >Ill shade him from the heat till he can bear, 
 >
 >To lean in joy upon our fathers knee. 
